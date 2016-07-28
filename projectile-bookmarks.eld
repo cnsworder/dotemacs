@@ -1,0 +1,1 @@
+("~/dev/crossemacs/" "~/workspace/vspm/" "~/dev/transgo/" "~/workspace/main_web/" "~/workspace/deploy/" "~/dev/QrCodeScanner/" "~/dev/crossvim/")

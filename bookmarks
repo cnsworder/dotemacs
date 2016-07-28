@@ -1,0 +1,20 @@
+;;;; Emacs Bookmark Format Version 1 ;;;;
+;;; This format is meant to be slightly human-readable;
+;;; nevertheless, you probably don't want to edit it.
+;;; -*- End Of Bookmark File Format Version Stamp -*-
+(("cadvisor.go"
+ (filename . "~/dev/gopath/src/github.com/google/cadvisor/cadvisor.go")
+ (front-context-string . "containerManager")
+ (rear-context-string . " %s\", err)\n	}\n\n	")
+ (position . 3931))
+("b"
+ (filename . "~/dev/crossemacs/emacs.d/lisp/keyset.el")
+ (front-context-string . "\n\n   (global-set")
+ (rear-context-string . ") 'bookmark-set)")
+ (position . 856))
+("a"
+ (filename . "~/m.py")
+ (front-context-string . "ute(\"\")\ndef fun(")
+ (rear-context-string . "Flask()\n\n@app.ro")
+ (position . 43))
+)
