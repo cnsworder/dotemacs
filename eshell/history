@@ -110,3 +110,12 @@ python manager.py -h
 ls
 echo $PATH
 echo $PATH
+cd ..
+ls
+./gunicornstart.sh
+. env/bin/activate_this.py
+. env/bin/activate
+ls
+source env/bin/active
+source env/bin/activate
+exit
